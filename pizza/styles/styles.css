@@ -1,0 +1,27 @@
+body {
+    background-color: #5aa469;
+}
+
+.border {
+    border: 2px solid #d35d6e!important;
+}
+/*Dot is a class*/
+
+.err {
+    color: darkred;
+    display: none;
+}
+
+h1 {
+    color: #d35d6e;
+    font-weight: bold;
+}
+
+legend {
+    color: #d35d6e;
+    font-variant: small-caps;
+}
+
+#main {
+    background-color: white;
+}
